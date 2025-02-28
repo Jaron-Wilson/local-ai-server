@@ -4,7 +4,6 @@
 
 AI Assistant is a powerful tool that combines advanced language models with a comprehensive suite of utilities to help you accomplish real-world tasks through natural conversation. Unlike typical chatbots, this assistant can access your local environment, search the web, generate images, manage files, and much more.
 
-![AI Assistant Interface](/api/placeholder/800/400)
 
 ## Core Capabilities
 
