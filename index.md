@@ -53,12 +53,12 @@ The AI Assistant comes equipped with numerous tools:
 
 ## Security Note
 
-⚠️ **Important**: This system has access to your file system. Use with caution and review the [security considerations](documentation.html#security-considerations) section for best practices.
+⚠️ **Important**: This system has access to your file system. Use with caution and review the [security considerations](/docs/chatbot_documentation.html#security-considerations) section for best practices.
 
 ## Learn More
 
-For a complete understanding of the AI Assistant's capabilities, installation process, API reference, and developer notes, please refer to the [comprehensive documentation](documentation.html).
+For a complete understanding of the AI Assistant's capabilities, installation process, API reference, and developer notes, please refer to the [comprehensive documentation](/docs/chatbot_documentation).
 
 ## Ready to Get Started?
 
-[Install Now](documentation.html#installation-guide) | [API Reference](documentation.html#api-reference) | [Tools & Capabilities](documentation.html#tools--capabilities)
+[Install Now](/docs/chatbot_documentation.html#installation-guide) | [API Reference](/docs/chatbot_documentation.html#api-reference) | [Tools & Capabilities](/docs/chatbot_documentation.html#tools--capabilities)
