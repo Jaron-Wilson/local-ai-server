@@ -57,8 +57,8 @@ The AI Assistant comes equipped with numerous tools:
 
 ## Learn More
 
-For a complete understanding of the AI Assistant's capabilities, installation process, API reference, and developer notes, please refer to the [comprehensive documentation](/docs/chatbot_documentation).
+For a complete understanding of the AI Assistant's capabilities, installation process, API reference, and developer notes, please refer to the [comprehensive documentation](docs/chatbot_documentation).
 
 ## Ready to Get Started?
 
-[Install Now](/docs/chatbot_documentation.html#installation-guide) | [API Reference](/docs/chatbot_documentation.html#api-reference) | [Tools & Capabilities](/docs/chatbot_documentation.html#tools--capabilities)
+[Install Now](docs/chatbot_documentation.html#installation-guide) | [API Reference](docs/chatbot_documentation.html#api-reference) | [Tools & Capabilities](docs/chatbot_documentation.html#tools--capabilities)
