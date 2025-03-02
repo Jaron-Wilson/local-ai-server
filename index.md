@@ -53,7 +53,7 @@ The AI Assistant comes equipped with numerous tools:
 
 ## Security Note
 
-⚠️ **Important**: This system has access to your file system. Use with caution and review the [security considerations](/docs/chatbot_documentation.html#security-considerations) section for best practices.
+⚠️ **Important**: This system has access to your file system. Use with caution and review the [security considerations](docs/chatbot_documentation.html#security-considerations) section for best practices.
 
 ## Learn More
 
